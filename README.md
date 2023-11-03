@@ -72,4 +72,4 @@ Quite often the presentation is not readable enough for the audience. Here are s
 
 ## Credits
 
-The tips are created with feedback from Flutter Montreal Community members. @bwnyasse suggested putting this page on GitHub to allow everyone to contribute.
+The tips are created with feedback from Flutter Montreal Community members. [@bwnyasse](https://github.com/bwnyasse) suggested putting this page on GitHub to allow everyone to contribute.
